@@ -1,2 +1,2 @@
-# Calculator-App.-Js
+# Hello world.-Js
 A simple Html, Css, Javascript project
